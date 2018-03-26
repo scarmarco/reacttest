@@ -1,0 +1,29 @@
+{
+  "name": "Nombre",
+  "name_placeholder": "Nombre aca",
+  "surname": "Apellido",
+  "surname_placeholder": "Apellido aca",
+  "countries": "Paises",
+  "birthday": "Fecha de Nacimiento",
+  "save": "Guardar",
+  "country": "País",
+  "MONTH_NAMES": [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Deciembre"
+  ],
+  "hello": "Hola",
+  "from": "desde",
+  "on": "en",
+  "of": "de",
+  "you_will_have": "tu tendrás"
+}

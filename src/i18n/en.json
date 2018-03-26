@@ -1,0 +1,29 @@
+{
+  "name": "Name",
+  "name_placeholder": "Name here",
+  "surname": "Surname",
+  "surname_placeholder": "Surname here",
+  "countries": "Countries",
+  "birthday": "Birthday",
+  "save": "Save",
+  "country": "Country",
+  "MONTH_NAMES": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "hello": "Hello",
+  "from": "from",
+  "on": "on",
+  "of": "of",
+  "you_will_have": "you will have"
+}
